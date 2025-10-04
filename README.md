@@ -8,6 +8,6 @@ int main() {
     string str = "OpenAI";
     reverse(str.begin(), str.end());
     cout << str << endl;
-    retur 0;
+    return 0;
 }
 ________________________________________
