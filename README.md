@@ -1,7 +1,7 @@
 # my-fourteenth-repo
 3. Reverse a String (C++)
 #include <iostream>
-#include <algorithm>
+#includ <algorithm>
 using namespace std;
 
 int main() {
