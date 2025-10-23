@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     string str = "OpenAI";
     reverse(str.begin(), str.end());
-    cout << str << endl;
+    cou << str << endl;
     return 0;
 }
 ________________________________________
