@@ -2,7 +2,7 @@
 3. Reverse a String (C++)
 #include <iostream>
 #include <algorithm>
-usin namespace std;
+using namespace std;
 
 int main() {
     string str = "OpenAI";
