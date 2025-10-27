@@ -4,7 +4,7 @@
 #include <algorithm>
 using namespace std;
 
-in main() {
+int main() {
     string str = "OpenAI";
     reverse(str.begin(), str.end());
     cout << str << endl;
